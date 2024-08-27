@@ -24,10 +24,10 @@ Este repositorio alberga los proyectos y ejercicios desarrollados en el Curso de
 - **Proyecto A**: Creamos un proyecto de Pokémon con llamadas a la API de Pokémon y utilizamos dependencias de la librería Kingfisher.
 
 
-## Uso
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-27 at 19 41 26](https://github.com/user-attachments/assets/bb0be4d0-e3ef-449a-9708-e5ff05c87114)
 
-Para utilizar los proyectos de este repositorio, simplemente clona o descarga el repositorio a tu computadora. Necesitarás tener Xcode y Figma instalados para abrir, ejecutar y diseñar los proyectos.
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-27 at 19 41 45](https://github.com/user-attachments/assets/dd5d1ced-2fa5-4050-b737-a396eac1147d)
 
-## Licencia
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-27 at 19 41 49](https://github.com/user-attachments/assets/abcd1eb6-8fb7-4ff1-a3b6-59310aa1503d)
 
-Este repositorio está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE.md para obtener más información.
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-27 at 19 42 14](https://github.com/user-attachments/assets/f9135bb4-1feb-4a55-b1d0-347ffc396329)
